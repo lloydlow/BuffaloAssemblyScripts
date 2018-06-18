@@ -1,0 +1,569 @@
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold_noNs.sh 
+What counter, pacbioname and scaffold?
+3000 ch2007 ScimKQY_509
+Your counter was: 3000
+Your pacbio name was: ch2007
+Your scaffold name was: ScimKQY_509
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2007_0_21546274.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2007_21546275_26910504.fa +                            
+end now?
+end
+Oct 10, 2017 9:22:08 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:22:08 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:22:17 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2007_000037F_ScXIYn4_123:0-21546274
+Oct 10, 2017 9:22:25 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2007_000037F_ScXIYn4_123:21546275-26910504
+Oct 10, 2017 9:22:26 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold_noNs.sh 
+What counter, pacbioname and scaffold?
+3001 ch2158 ScimKQY_126
+Your counter was: 3001
+Your pacbio name was: ch2158
+Your scaffold name was: ScimKQY_126
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2158_0_16547564.fa +
+end now?
+no                           
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2158_16547565_49768598.fa +
+end now?
+end
+Oct 10, 2017 9:24:12 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:24:12 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:24:21 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2158_000212F_ScXIYn4_710:0-16547564
+Oct 10, 2017 9:24:50 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2158_000212F_ScXIYn4_710:16547565-49768598
+Oct 10, 2017 9:24:52 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold_noNs.sh 
+What counter, pacbioname and scaffold?
+3002 ch3028 ScimKQY_27
+Your counter was: 3002
+Your pacbio name was: ch3028
+Your scaffold name was: ScimKQY_27
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3028_0_14309644.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3028_14309645_29784039.fa +
+end now?
+end
+Oct 10, 2017 9:25:47 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:25:47 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:25:55 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3028_000020F_ScXIYn4_257:0-14309644
+Oct 10, 2017 9:26:04 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3028_000020F_ScXIYn4_257:14309645-29784039
+Oct 10, 2017 9:26:05 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold_noNs.sh 
+What counter, pacbioname and scaffold?
+3003 ch3122 ScimKQY_508
+Your counter was: 3003
+Your pacbio name was: ch3122
+Your scaffold name was: ScimKQY_508
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3122_6389183_54022504.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3122_54022505_61447237.fa +
+end now?
+end
+Oct 10, 2017 9:27:10 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:27:10 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:27:10 PM combinefasta.Order <init>
+SEVERE: Error reading input fasta order file!
+java.io.IOException: Error accessing file: ch3122_6389183_54022504.fa does it exist?
+	at combinefasta.Order.<init>(Order.java:46)
+	at combinefasta.CombineFasta.main(CombineFasta.java:95)
+
+Oct 10, 2017 9:27:10 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold_noNs.sh 
+What counter, pacbioname and scaffold?
+3003 ch3122 ScimKQY_508
+Your counter was: 3003
+Your pacbio name was: ch3122
+Your scaffold name was: ScimKQY_508
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3122_6389184_54022504.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3122_54022505_61447237.fa +
+end now?
+end
+Oct 10, 2017 9:28:11 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:28:11 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:28:53 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3122_000124F_ScXIYn4_658:6389184-54022504
+Oct 10, 2017 9:29:06 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3122_000124F_ScXIYn4_658:54022505-61447237
+Oct 10, 2017 9:29:08 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3004 ch310 ScimKQY_123
+Your counter was: 3004
+Your pacbio name was: ch310
+Your scaffold name was: ScimKQY_123
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch310_0_1401452.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch217_0_4381574.fa -
+end now?
+no                             
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+hic3003_ch3122_ScimKQY_508.fa -
+end now?
+end
+Oct 10, 2017 9:36:22 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:36:22 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:36:22 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch310_000244F_ScXIYn4_145:0-1401452
+Oct 10, 2017 9:36:25 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch217_000162F_ScXIYn4_563:0-4381574
+Oct 10, 2017 9:37:07 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: hic3003_ch3122_ScimKQY_508
+Oct 10, 2017 9:37:10 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3005 ch345 ScimKQY_126
+Your counter was: 3005
+Your pacbio name was: ch345
+Your scaffold name was: ScimKQY_126
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch345_0_979402.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch100_0_13447857.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch442_0_200903.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch535_0_93833.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch444_0_193702.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3143_0_123216.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2106_0_244039.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch453_0_173121.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3024_0_119051.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3107_0_636081.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch362_0_773043.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3139_0_171288.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3057_0_1473083.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2193_0_156664.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch394_0_360364.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3023_0_6852750.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch284_0_1959743.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch131_0_9445242.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+hic3001_ch2158_ScimKQY_126.fa +
+end now?
+end
+Oct 10, 2017 9:42:06 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:42:06 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:42:06 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch345_000270F_ScXIYn4_28:0-979402
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch100_000073F_ScXIYn4_698:0-13447857
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch442_000353F_ScXIYn4_615:0-200903
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch535_000455F_ScXIYn4_450:0-93833
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch444_000356F_ScXIYn4_652:0-193702
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3143_000352F_ScXIYn4_755:0-123216
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2106_000439F_ScXIYn4_62:0-244039
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch453_000364F_ScXIYn4_295:0-173121
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3024_000417F_ScXIYn4_532:0-119051
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3107_000362F_ScXIYn4_711:0-636081
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch362_000284F_ScXIYn4_468:0-773043
+Oct 10, 2017 9:42:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3139_000357F_ScXIYn4_737:0-171288
+Oct 10, 2017 9:42:16 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3057_000265F_ScXIYn4_422:0-1473083
+Oct 10, 2017 9:42:16 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2193_000411F_ScXIYn4_760:0-156664
+Oct 10, 2017 9:42:16 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch394_000312F_ScXIYn4_739:0-360364
+Oct 10, 2017 9:42:17 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3023_000322F_ScXIYn4_234:0-6852750
+Oct 10, 2017 9:42:17 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch284_000220F_ScXIYn4_143:0-1959743
+Oct 10, 2017 9:42:23 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch131_000098F_ScXIYn4_417:0-9445242
+Oct 10, 2017 9:42:46 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: hic3001_ch2158_ScimKQY_126
+Oct 10, 2017 9:43:23 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3006 ch237 ScimKQY_126
+Your counter was: 3006
+Your pacbio name was: ch237
+Your scaffold name was: ScimKQY_126
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch237_0_3278225.fa -
+end now?
+end
+Oct 10, 2017 9:43:48 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:43:48 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:43:50 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch237_000178F_ScXIYn4_709:0-3278225
+Oct 10, 2017 9:43:51 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3007 ch3127 ScimKQY_127
+Your counter was: 3007
+Your pacbio name was: ch3127
+Your scaffold name was: ScimKQY_127
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3127_0_11819286.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3128_0_33106669.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch389_0_347859.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2123_0_6105371.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3003_0_19120497.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2148_0_26795978.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3130_15836492_104732136.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3130_0_15836491.fa -
+end now?
+end
+Oct 10, 2017 9:47:49 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:47:49 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:47:58 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3127_000040F_ScXIYn4_677:0-11819286
+Oct 10, 2017 9:48:19 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3128_000296F_ScXIYn4_678:0-33106669
+Oct 10, 2017 9:48:19 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch389_000308F_ScXIYn4_202:0-347859
+Oct 10, 2017 9:48:20 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2123_000584F_ScXIYn4_663:0-6105371
+Oct 10, 2017 9:48:31 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3003_000045F_ScXIYn4_128:0-19120497
+Oct 10, 2017 9:48:42 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2148_000049F_ScXIYn4_697:0-26795978
+Oct 10, 2017 9:49:59 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3130_000063F_ScXIYn4_695:15836492-104732136
+Oct 10, 2017 9:51:07 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3130_000063F_ScXIYn4_695:0-15836491
+Oct 10, 2017 9:52:08 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3008 ch3075 ScimKQY_27
+Your counter was: 3008
+Your pacbio name was: ch3075
+Your scaffold name was: ScimKQY_27
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3075_0_56143.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3074_0_18285018.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3077_0_1058596.fa +
+end now?
+end
+Oct 10, 2017 9:53:15 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:53:15 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:53:15 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3075_000611F_ScXIYn4_511:0-56143
+Oct 10, 2017 9:53:25 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3074_000051F_ScXIYn4_511:0-18285018
+Oct 10, 2017 9:53:25 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3077_000275F_ScXIYn4_52:0-1058596
+Oct 10, 2017 9:53:26 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3009 ch3028 ScimKQY_27
+Your counter was: 3009
+Your pacbio name was: ch3028
+Your scaffold name was: ScimKQY_27
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+hic3002_ch3028_ScimKQY_27.fa - 
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3045_0_128559.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3113_0_19515356.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+^C
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3009 ch3028 ScimKQY_27
+Your counter was: 3009
+Your pacbio name was: ch3028
+Your scaffold name was: ScimKQY_27
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+hic3002_ch3028_ScimKQY_27.fa - 
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3045_0_128559.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3113_0_19515356.fa +
+end now?
+end
+Oct 10, 2017 9:56:11 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:56:11 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:56:32 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: hic3002_ch3028_ScimKQY_27
+Oct 10, 2017 9:56:32 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3045_000453F_ScXIYn4_35:0-128559
+Oct 10, 2017 9:56:41 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3113_000168F_ScXIYn4_640:0-19515356
+Oct 10, 2017 9:56:43 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3010 ch3081 ScimKQY_28
+Your counter was: 3010
+Your pacbio name was: ch3081
+Your scaffold name was: ScimKQY_28
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3081_0_28696369.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3147_0_34037391.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3103_0_12998421.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3122_0_6389183.fa +
+end now?
+end
+Oct 10, 2017 9:58:00 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 9:58:00 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 9:58:17 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3081_000132F_ScXIYn4_632:0-28696369
+Oct 10, 2017 9:58:41 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3147_000518F_ScXIYn4_767:0-34037391
+Oct 10, 2017 9:59:01 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3103_000286F_ScXIYn4_614:0-12998421
+Oct 10, 2017 9:59:12 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3122_000124F_ScXIYn4_658:0-6389183
+Oct 10, 2017 9:59:14 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+lloyd@staff-251-218:~/Documents/lloyd_2017/Research/RiverBuffalo/buffalo_NextGenAssembly/buffalo_NextGenAssembly/reordering_HiRise_result_corrected_chicago/step3$ ./generateScaffold.sh 
+What counter, pacbioname and scaffold?
+3011 ch371 ScimKQY_509
+Your counter was: 3011
+Your pacbio name was: ch371
+Your scaffold name was: ScimKQY_509
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch371_0_597866.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch199_0_5038509.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch190_0_5686453.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch126_0_9906912.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2127_0_2844847.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch641_0_60740.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+hic3000_ch2007_ScimKQY_509.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch304_0_1499981.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch303_0_1595930.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3014_0_34296472.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch2162_0_30835350.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3063_0_29462442.fa -
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3019_0_39401921.fa +
+end now?
+no
+What fragment do you like to join (e.g. 000176F_0_3515200.fa +)?
+ch3124_0_623924.fa +
+end now?
+end
+Oct 10, 2017 10:01:30 PM combinefasta.CombineFasta main
+INFO: CombineFasta version: 0.0.7
+Oct 10, 2017 10:01:30 PM combinefasta.CombineFasta main
+INFO: Mode order selected
+Oct 10, 2017 10:01:30 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch371_000292F_ScXIYn4_125:0-597866
+Oct 10, 2017 10:01:33 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch199_000147F_ScXIYn4_204:0-5038509
+Oct 10, 2017 10:01:34 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch190_000139F_ScXIYn4_668:0-5686453
+Oct 10, 2017 10:01:39 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch126_000093F_ScXIYn4_667:0-9906912
+Oct 10, 2017 10:01:41 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2127_000185F_ScXIYn4_666:0-2844847
+Oct 10, 2017 10:01:41 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch641_000573F_ScXIYn4_156:0-60740
+Oct 10, 2017 10:02:04 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: hic3000_ch2007_ScimKQY_509
+Oct 10, 2017 10:02:14 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch304_000239F_ScXIYn4_660:0-1499981
+Oct 10, 2017 10:02:14 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch303_000237F_ScXIYn4_486:0-1595930
+Oct 10, 2017 10:02:42 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3014_000015F_ScXIYn4_192:0-34296472
+Oct 10, 2017 10:03:34 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch2162_000134F_ScXIYn4_720:0-30835350
+Oct 10, 2017 10:03:55 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3063_000120F_ScXIYn4_448:0-29462442
+Oct 10, 2017 10:04:23 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3019_000509F_ScXIYn4_225:0-39401921
+Oct 10, 2017 10:04:23 PM combinefasta.Order GenerateFasta
+INFO: Loaded fasta entry: ch3124_000290F_ScXIYn4_673:0-623924
+Oct 10, 2017 10:04:52 PM combinefasta.CombineFasta main
+INFO: CombineFasta mode finished: order
+
