@@ -6,10 +6,22 @@ These are my notes on the generation of QV and quality metric statistics on the 
 
 
 ## Table of Contents
+* [Software dependencies](#dependencies)
 * [Preparing the files](#preparing)
 	* [Caspur assembly alignment](#caspur)
 * [Generating quality metrics](#quality)
 	* [calculate_qv.sh](#calculatescript)
+
+<a name="dependencies"></a>
+## Software dependencies
+
+Required software:
+* [Samtools with HTSLib](http://www.htslib.org/)
+* [BWA](http://bio-bwa.sourceforge.net/)
+* [FreeBayes](https://github.com/ekg/freebayes)
+* [FRC_align](https://github.com/vezzi/FRC_align)
+* [python_toolchain](https://github.com/njdbickhart/python_toolchain)
+* [A high pain tolerance (just kidding :P)](https://www.python.org/)
 
 <a name="preparing"></a>
 ## Preparing files
