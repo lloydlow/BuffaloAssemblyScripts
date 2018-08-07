@@ -6,6 +6,7 @@ All scripts are given in the scripts directory. Specific scripts and sample data
 * scaffolding_HiRise
 * checks_of_scaffold_joins
 * gaps_comparisons
+* QV_estimation
  
 Here is a brief description of the contents of each directory.
 
@@ -17,3 +18,6 @@ This folder contains information on how linkage disequilibrium (LD) data was use
 
 ### gaps_comparisons
 This folder has the raw datasets of gap and ungapped contigs lengths as well as the R scrips used for analysis.
+
+### QV_estimation
+Here is the results by Derek Bickhart on QV estimation of the previous short-read based assembly versus the current long-read based assembly. The folder contains notes on software requirements and how to run the QV estimation.
